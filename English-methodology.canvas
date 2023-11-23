@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"8257820089931c90","type":"file","file":"Productivity/English🇬🇧/🎬 YouTube.md","x":-217,"y":7,"width":817,"height":373},
+		{"id":"ec11f7147a7e53cd","type":"file","file":"Productivity/English🇬🇧/📚 Reading.md","x":-217,"y":460,"width":817,"height":400},
+		{"id":"df19cc873216a8a0","x":-217,"y":920,"width":817,"height":360,"type":"file","file":"Productivity/English🇬🇧/🔊 Podcast.md"},
+		{"id":"5a52d84d00274525","x":-217,"y":1360,"width":817,"height":375,"type":"file","file":"Productivity/English🇬🇧/🗣️ Spoken.md"},
+		{"id":"c5d5297f132f93fc","x":-217,"y":1840,"width":817,"height":400,"type":"file","file":"Productivity/English🇬🇧/✍️ Output.md"},
+		{"id":"e0a478f77ea01815","x":655,"y":7,"width":415,"height":173,"type":"link","url":"https://www.youtube.com/watch?v=NQlFIrSZiIE"},
+		{"id":"43561b044ddc2d1b","x":655,"y":220,"width":415,"height":160,"type":"link","url":"https://www.youtube.com/watch?v=PHe0bXAIuk0"}
+	],
+	"edges":[]
+}
